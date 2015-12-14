@@ -1,0 +1,13 @@
+<html>
+	<form action="pass.php" method="post" id="form1">
+		Username
+		<input type="text" name="username" value="">
+		</br>
+		Password
+		<input type="password" name="password" value="">
+		</br>
+		<button type="submit" form="form1" value="Submit">Submit</button>
+	</br>
+		<button type="reset" value="reset">Reset</button>
+	</form>
+</html>
