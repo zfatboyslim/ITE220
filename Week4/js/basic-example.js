@@ -1,1 +1,1 @@
-$(function() {	$("#answer").html("i dont");});
+$(':header').addClass('headline');('li:lt(3)').hide();('#header').on('click', function() {$('li:lt(3)').fadeIn(1500););('li').on('click', function() {f ($(this).hasClass('cool')){ $(this).remove(); //removes method takes out an element itself);
