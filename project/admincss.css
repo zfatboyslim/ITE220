@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.content{
+	height: 300px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}

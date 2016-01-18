@@ -1,0 +1,100 @@
+@charset "utf-8";
+.topbar {
+	height: 150px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.content {
+	height: 900px;
+	width: 900px;
+	margin-left: auto;
+	float: none;
+	margin-right: auto;
+	border-bottom-width: thin;
+	background-repeat: no-repeat;
+}
+.contentboxleft {
+	height: 900px;
+	width: 555px;
+	float: right;
+}
+.productidvleft {
+	height: 250px;
+	width: 260px;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+}
+.productidvright {
+	height: 250px;
+	width: 260px;
+	margin-right: auto;
+	margin-left: auto;
+	float: right;
+	
+}
+.leftbar{
+	height: 900px;
+	width: 40px;
+	float: left;
+	background-image: url(images/leftbar.png);
+}
+.sidebar {
+	height: 900px;
+	width: 300px;
+	float: right;
+}
+.navibox {
+	height: 65px;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.loginbox {
+	height: 187px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/loginbox.png);
+}
+.products{
+	height: 187px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/loginbox.png);
+}
+.register{
+	height: 50px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/register.png);
+}
+.footer{
+	height: 60px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(images/footer2.png);
+	margin-right: auto;
+	margin-left: auto;
+}
+.lowerbox{
+	height: 500px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;;
+}
+.productlisting {
+	height: 900px;
+	width: 275px;
+	float: right;
+	margin: auto;
+}
+.productlisting2 {
+	height: 900px;
+	width: 275px;
+	float: left;
+	margin: auto;
+}
